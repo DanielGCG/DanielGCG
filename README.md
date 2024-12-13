@@ -1,4 +1,19 @@
-## Hi there 👋
+# Daniel Goulart
+
+---
+
+## 📞 Contato
+
+- **E-mail:** danielgcgoficial@gmail.com
+- **Discord:** @danielgcg
+- **GitHub:** [Daniel Goulart](https://github.com/danielgcg)
+
+
+
+
+
+
+
 
 <!--
 **DanielGCG/DanielGCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
