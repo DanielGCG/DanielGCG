@@ -2,6 +2,19 @@
 
 ---
 
+## 👤 Sobre
+
+- Estudante de terceiro período na UFRJ
+- Atualmente interessado em desenvolvimento web
+
+---
+
+## 🔨 Trabalhando atualmente
+
+- [Site do Boteco](https://github.com/DanielGCG/SitedoBotecoRS)
+
+---
+
 ## 📞 Contato
 
 - **E-mail:** danielgcgoficial@gmail.com
