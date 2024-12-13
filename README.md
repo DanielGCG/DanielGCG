@@ -1,11 +1,8 @@
-# Daniel Goulart
-
----
-
-## 👤 Sobre
+## 👤 Sobre mim
 
 - Terceiro período - UFRJ
 - Atualmente interessado em desenvolvimento web
+- Desenvolvendo para aprender e por diversão :D
 
 ---
 
