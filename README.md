@@ -1,8 +1,8 @@
 ## 👤 Sobre mim
 
-- Terceiro período - UFRJ
-- Atualmente interessado em desenvolvimento web
-- Desenvolvendo para aprender e por diversão :D
+- Quartp período - UFRJ
+- Atualmente interessado em desenvolvimento web e ciência de dados
+- Desenvolvendo para aprender 🤓 e por diversão :D
 
 ---
 
