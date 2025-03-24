@@ -1,6 +1,6 @@
 ## 👤 Sobre mim
 
-- Quartp período - UFRJ
+- Quarto período - UFRJ
 - Atualmente interessado em desenvolvimento web e ciência de dados
 - Desenvolvendo para aprender 🤓 e por diversão :D
 
