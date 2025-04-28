@@ -1,7 +1,7 @@
 ## 👤 Sobre mim
 
 - Quarto período - UFRJ
-- Atualmente interessado em desenvolvimento web e ciência de dados
+- Atualmente interessado em programação de sistemas embarcados, desenvolvimento web, ciência de dados e IoT.
 - Desenvolvendo para aprender 🤓 e por diversão :D
 
 ---
