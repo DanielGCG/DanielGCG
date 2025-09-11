@@ -1,6 +1,6 @@
 ## 👤 Sobre mim
 
-- Quarto período - UFRJ
+- Quinto período - UFRJ
 - Atualmente interessado em programação de sistemas embarcados, desenvolvimento web, ciência de dados e IoT.
 - Desenvolvendo para aprender 🤓 e por diversão :D
 
