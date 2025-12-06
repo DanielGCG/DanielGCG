@@ -1,7 +1,7 @@
 ## 👤 Sobre mim
 
 - Quinto período - UFRJ
-- Atualmente interessado em programação de sistemas embarcados, desenvolvimento web, ciência de dados e IoT.
+- Atualmente interessado em programação de sistemas embarcados (arduino / ESP32), IoT, desenvolvimento web e ciência de dados.
 - Desenvolvendo para aprender 🤓 e por diversão :D
 
 ---
