@@ -8,8 +8,8 @@
 
 ## 🔨 Trabalhando atualmente
 
-- [Site pessoal](https://github.com/DanielGCG/DanielGCG.github.io)
-- [Central de notificações c/ ESP32 e LoRa](https://github.com/DanielGCG/ESP32-lora)
+- Rede MOB 4.0
+- Projeto pessoal de rede social
 
 ## ⏰ Em pausa momentânea
 
