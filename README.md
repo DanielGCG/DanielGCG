@@ -11,11 +11,6 @@
 - Rede MOB 4.0
 - Projeto pessoal de rede social
 
-## ⏰ Em pausa momentânea
-
-- [Site do Boteco](https://github.com/DanielGCG/SitedoBotecoRS)
-
-
 
 <!--
 **DanielGCG/DanielGCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
