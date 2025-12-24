@@ -9,7 +9,7 @@
 ## 🔨 Trabalhando atualmente
 
 - Rede MOB 4.0
-- Projeto pessoal de rede social
+- Projeto pessoal de rede social (TECO)
 
 
 <!--
