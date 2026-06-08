@@ -3,7 +3,7 @@
 
 - Bacharel em Ciência da Computação - 6° período
 - Universidade Federal do Rio de Janeiro (UFRJ)
-- Entusiasta em sistemas embarcados (ESP32), prototipação, LoRa, IoT e comunicação inteligente.
+- Entusiasta em sistemas embarcados (ESP32), prototipação, LoRa, BLE, IoT e comunicação inteligente.
 - Aprendendo desenvolvendo na prática 🏗
 
 ---
@@ -14,11 +14,13 @@
 - Projeto pessoal de rede social (TECO): aprendendo sobre UX, banco de dados, back-end
 - Reutilização de TVBoxes em servidores debian para hospedagem de serviços web e de dados
 
-## 📚 Investigando atualmente
+## 📚 Investigando
 
-- Aplicações da rede de código aberto para comunicação entre dispositivos LoRa: [Meshtastic](https://meshtastic.org/)
+- Sensoriamento Participativo, BLE, NFC baixo custo para o transporte público (em especial ônibus universitários internos da UFRJ)
 - Aplicabilidade e impactos de dispositivos inteligentes de baixo custo em cidades inteligentes (monitoramento e comunicação)
+- Aplicações da rede de código aberto para comunicação entre dispositivos LoRa: [Meshtastic](https://meshtastic.org/)
 
+---
 
 >“The Web does not just connect machines, it connects people.”
 >— Tim Berners-Lee
